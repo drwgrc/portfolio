@@ -18,7 +18,7 @@ This portfolio is to showcase Andrew's recent web development work.
 
 ## Live
 
-- [View Live](https://job-board-landing.vercel.app/)
+- [View Live](https://drwgrc.dev/)
 
 ## Technologies
 
