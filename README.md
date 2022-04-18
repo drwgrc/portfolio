@@ -14,7 +14,7 @@ This portfolio is to showcase Andrew's recent web development work.
 
 ## Preview
 
-![Landing](https://ibb.co/wYVwX30)
+![Landing](https://i.ibb.co/Ss3WfyR/Fire-Shot-Capture-002-Andrew-Garcia-Frontend-Developer-www-drwgrc-dev.png)
 
 ## Live
 
